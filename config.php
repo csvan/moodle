@@ -30,4 +30,4 @@ $CFG->directorypermissions = 0777;
 require_once(dirname(__FILE__) . '/lib/setup.php'); ;
 
 // There is no php closing tag in this file,
-// it is intentional because it prevents trailing whitespace problems!
+// itgit is intentional because it prevents trailing whitespace problems!
